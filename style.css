@@ -45,7 +45,7 @@ footer{
 }
 
 
-.header{background: #001c623b;grid-template-columns: 1fr 5%;justify-items: center;align-items: center;height: 10vh;}
+.header{background: #001c623b;grid-template-columns: 1fr 5%;justify-items: center;align-items: center;height: 10vh;width: 100%;}
 
 .header, .home, .container__profile, .contain__profile, .obtener {
     display: grid;
